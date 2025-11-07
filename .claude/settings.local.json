@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "mcp__TwoFeetBase__list_indexes",
+      "mcp__TwoFeetBase__search_twofeetbase",
+      "mcp__TwoFeetBase__fetch_by_id",
+      "mcp__TwoFeetBase__navigate",
+      "mcp__TwoFeetBase__list_files",
+      "Bash(find:*)",
+      "Bash(npm run build:*)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
