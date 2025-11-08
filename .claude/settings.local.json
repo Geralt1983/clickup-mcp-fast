@@ -11,7 +11,11 @@
       "Bash(npm run build:*)",
       "Bash(python:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "mcp__Ref__ref_read_url",
+      "Bash(npm install:*)",
+      "Bash(node:*)",
+      "Bash(tee:*)"
     ],
     "deny": [],
     "ask": []
