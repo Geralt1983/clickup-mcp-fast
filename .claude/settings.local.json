@@ -9,7 +9,9 @@
       "mcp__TwoFeetBase__list_files",
       "Bash(find:*)",
       "Bash(npm run build:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
